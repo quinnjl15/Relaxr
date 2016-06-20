@@ -1,0 +1,32 @@
+html {
+	background-color: #f0efef;
+	color: white;
+}
+body {color: #000;
+     font-size: 12px;
+     line-height: 1.4;
+     font-family: Helvetica, Arial, sans-serif;
+     background: url(header_bg.jpg) no-repeat center top rgb(134,141,157);
+      background-size: cover;
+      background-size: 1700px 400px;
+      margin-top: 25px 100px 50px 80px
+  }
+header {
+}
+
+div {
+	background-color:#f9e42e;
+}
+
+div .button{
+	background-color: #033048
+	color: white;
+}
+
+.backgroundimg {
+	background-image: url(testimonial_bg.jpg);
+}
+
+footer {
+	background-color: #121212
+}
